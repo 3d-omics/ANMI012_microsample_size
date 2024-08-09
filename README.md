@@ -10,7 +10,7 @@ Data processing to generate the count data was conducted using the following Sna
 
 The raw code used for data analysis is in the **Rmd** files stored in the root directory of this repository, while the bookdown-rendered webbook is available at:
 
-[3d-omics.github.io/ANMI011_two_chicken_colon](https://3d-omics.github.io/ANMI012_microsample_size)
+[3d-omics.github.io/ANMI012_microsample_size](https://3d-omics.github.io/ANMI012_microsample_size)
 
 While the webbook provides a user-friendly overview of the procedures, analyses can be directly reproduced using the Rmd documents. Note that the code chunks that require heavy computation have been tuned off using 'eval=FALSE'. To re-render the webbook, you can use the following code:
 
